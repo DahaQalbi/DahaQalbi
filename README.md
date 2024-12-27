@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MEAN, MEARN, Hybrid Mobile & web apps**
 
-- 💬 Ask me about **MEARN $ MEAN**
+- 💬 Ask me about **MEARN & MEAN**
 
 - 📫 How to reach me **qalbichamp5@gmail.com**
 
